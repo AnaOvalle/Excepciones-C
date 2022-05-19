@@ -1,0 +1,7 @@
+C:\Users\asfix\OneDrive\POO u5\Excepciones-C\ExcepcionesC\bin\Debug\ExcepcionesC.exe.config
+C:\Users\asfix\OneDrive\POO u5\Excepciones-C\ExcepcionesC\bin\Debug\ExcepcionesC.exe
+C:\Users\asfix\OneDrive\POO u5\Excepciones-C\ExcepcionesC\bin\Debug\ExcepcionesC.pdb
+C:\Users\asfix\OneDrive\POO u5\Excepciones-C\ExcepcionesC\obj\Debug\ExcepcionesC.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\POO u5\Excepciones-C\ExcepcionesC\obj\Debug\ExcepcionesC.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\POO u5\Excepciones-C\ExcepcionesC\obj\Debug\ExcepcionesC.exe
+C:\Users\asfix\OneDrive\POO u5\Excepciones-C\ExcepcionesC\obj\Debug\ExcepcionesC.pdb
